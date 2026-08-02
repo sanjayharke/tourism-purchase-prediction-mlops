@@ -60,7 +60,7 @@
     "roc_auc": 0.971594982078853,
     "average_precision": 0.9079474973158118
   },
-  "trained_at_utc": "2026-08-02T16:05:16.681664+00:00",
+  "trained_at_utc": "2026-08-02T18:26:26.556014+00:00",
   "random_state": 42,
   "python_version": "3.11.15",
   "sklearn_version": "1.8.0"
