@@ -99,7 +99,9 @@ jobs:
           path: tourism_project/artifacts/splits
 
       - name: Tune, track, evaluate, and package model
-        run: python tourism_project/model_building/train.py
+        run: |
+          rm -rf mlruns
+          python tourism_project/model_building/train.py
 
       - name: Run packaged-model smoke test
         run: python tourism_project/model_building/smoke_test.py
