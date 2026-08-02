@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sanjaynharke/Documents/AIML/Advanced%20Machine%20Learning%20and%20MLOps/Final_Project/tourism_cell_by_cell/mlruns/968031306712698947/5afd5c944fbe4e5c96cb1ca4b8edc8b0/artifacts
+end_time: 1785682545365
+entry_point_name: ''
+experiment_id: '968031306712698947'
+lifecycle_stage: active
+run_id: 5afd5c944fbe4e5c96cb1ca4b8edc8b0
+run_name: upset-duck-991
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785682532167
+status: 3
+tags: []
+user_id: sanjaynharke

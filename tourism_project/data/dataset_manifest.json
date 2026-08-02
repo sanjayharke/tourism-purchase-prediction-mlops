@@ -1,0 +1,35 @@
+{
+  "file_name": "tourism.csv",
+  "sha256": "3f891d5fbaa3a38a4e74d4cc08be7ce6261f9c193c71535508deec9617dca4da",
+  "rows": 4128,
+  "columns": 21,
+  "column_names": [
+    "Unnamed: 0",
+    "CustomerID",
+    "ProdTaken",
+    "Age",
+    "TypeofContact",
+    "CityTier",
+    "DurationOfPitch",
+    "Occupation",
+    "Gender",
+    "NumberOfPersonVisiting",
+    "NumberOfFollowups",
+    "ProductPitched",
+    "PreferredPropertyStar",
+    "MaritalStatus",
+    "NumberOfTrips",
+    "Passport",
+    "PitchSatisfactionScore",
+    "OwnCar",
+    "NumberOfChildrenVisiting",
+    "Designation",
+    "MonthlyIncome"
+  ],
+  "total_missing_values": 0,
+  "target_distribution": {
+    "0": 3331,
+    "1": 797
+  },
+  "target_positive_rate": 0.1930717054263566
+}

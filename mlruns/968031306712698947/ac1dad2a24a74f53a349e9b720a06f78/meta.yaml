@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sanjaynharke/Documents/AIML/Advanced%20Machine%20Learning%20and%20MLOps/Final_Project/tourism_cell_by_cell/mlruns/968031306712698947/ac1dad2a24a74f53a349e9b720a06f78/artifacts
+end_time: 1785682545365
+entry_point_name: ''
+experiment_id: '968031306712698947'
+lifecycle_stage: active
+run_id: ac1dad2a24a74f53a349e9b720a06f78
+run_name: nervous-goat-210
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785682532167
+status: 3
+tags: []
+user_id: sanjaynharke

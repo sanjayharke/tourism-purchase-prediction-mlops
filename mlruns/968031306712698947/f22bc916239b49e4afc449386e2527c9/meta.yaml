@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sanjaynharke/Documents/AIML/Advanced%20Machine%20Learning%20and%20MLOps/Final_Project/tourism_cell_by_cell/mlruns/968031306712698947/f22bc916239b49e4afc449386e2527c9/artifacts
+end_time: 1785682545365
+entry_point_name: ''
+experiment_id: '968031306712698947'
+lifecycle_stage: active
+run_id: f22bc916239b49e4afc449386e2527c9
+run_name: mysterious-auk-886
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785682532167
+status: 3
+tags: []
+user_id: sanjaynharke

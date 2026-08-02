@@ -1,0 +1,20 @@
+digest: dc0bde04
+name: dataset
+profile: '{"num_rows": 3208, "num_elements": 57744}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "Age", "required": true},
+  {"type": "string", "name": "TypeofContact", "required": true}, {"type": "long",
+  "name": "CityTier", "required": true}, {"type": "double", "name": "DurationOfPitch",
+  "required": true}, {"type": "string", "name": "Occupation", "required": true}, {"type":
+  "string", "name": "Gender", "required": true}, {"type": "long", "name": "NumberOfPersonVisiting",
+  "required": true}, {"type": "double", "name": "NumberOfFollowups", "required": true},
+  {"type": "string", "name": "ProductPitched", "required": true}, {"type": "double",
+  "name": "PreferredPropertyStar", "required": true}, {"type": "string", "name": "MaritalStatus",
+  "required": true}, {"type": "double", "name": "NumberOfTrips", "required": true},
+  {"type": "long", "name": "Passport", "required": true}, {"type": "long", "name":
+  "PitchSatisfactionScore", "required": true}, {"type": "long", "name": "OwnCar",
+  "required": true}, {"type": "double", "name": "NumberOfChildrenVisiting", "required":
+  true}, {"type": "string", "name": "Designation", "required": true}, {"type": "double",
+  "name": "MonthlyIncome", "required": true}]}'
+source: '{"tags": {"mlflow.user": "sanjaynharke", "mlflow.source.name": "/opt/homebrew/Caskroom/miniforge/base/lib/python3.13/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

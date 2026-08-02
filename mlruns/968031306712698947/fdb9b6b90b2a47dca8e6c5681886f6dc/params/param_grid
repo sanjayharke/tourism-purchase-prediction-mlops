@@ -1,0 +1,1 @@
+{'model__n_estimators': [200, 400], 'model__max_depth': [None, 8, 14], 'model__min_samples_leaf': [1, 3], 'model__class_weight': [None, 'balanced_subsample']}

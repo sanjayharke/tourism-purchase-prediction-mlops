@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sanjaynharke/Documents/AIML/Advanced%20Machine%20Learning%20and%20MLOps/Final_Project/tourism_cell_by_cell/mlruns/968031306712698947/467aaff9010d42c0a849a5cffdf8691d/artifacts
+end_time: 1785682545365
+entry_point_name: ''
+experiment_id: '968031306712698947'
+lifecycle_stage: active
+run_id: 467aaff9010d42c0a849a5cffdf8691d
+run_name: unequaled-fawn-264
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785682532167
+status: 3
+tags: []
+user_id: sanjaynharke

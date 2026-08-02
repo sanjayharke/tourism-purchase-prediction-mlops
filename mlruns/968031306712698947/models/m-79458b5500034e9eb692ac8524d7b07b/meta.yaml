@@ -1,0 +1,10 @@
+artifact_location: file:///Users/sanjaynharke/Documents/AIML/Advanced%20Machine%20Learning%20and%20MLOps/Final_Project/tourism_cell_by_cell/mlruns/968031306712698947/models/m-79458b5500034e9eb692ac8524d7b07b/artifacts
+creation_timestamp: 1785682621268
+experiment_id: '968031306712698947'
+last_updated_timestamp: 1785682624802
+model_id: m-79458b5500034e9eb692ac8524d7b07b
+model_type: null
+name: best_model
+source_run_id: fdb9b6b90b2a47dca8e6c5681886f6dc
+status: 2
+status_message: null

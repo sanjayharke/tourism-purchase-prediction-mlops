@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sanjaynharke/Documents/AIML/Advanced%20Machine%20Learning%20and%20MLOps/Final_Project/tourism_cell_by_cell/mlruns/968031306712698947/dc61c0556f7a4e5ca923a9966484e359/artifacts
+end_time: 1785682545365
+entry_point_name: ''
+experiment_id: '968031306712698947'
+lifecycle_stage: active
+run_id: dc61c0556f7a4e5ca923a9966484e359
+run_name: nebulous-hound-339
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785682532167
+status: 3
+tags: []
+user_id: sanjaynharke

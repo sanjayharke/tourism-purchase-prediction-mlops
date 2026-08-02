@@ -1,0 +1,22 @@
+artifact_path: file:///Users/sanjaynharke/Documents/AIML/Advanced%20Machine%20Learning%20and%20MLOps/Final_Project/tourism_cell_by_cell/mlruns/968031306712698947/models/m-79458b5500034e9eb692ac8524d7b07b/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+mlflow_version: 3.0.1
+model_id: m-79458b5500034e9eb692ac8524d7b07b
+model_size_bytes: 33512686
+model_uuid: m-79458b5500034e9eb692ac8524d7b07b
+prompts: null
+run_id: fdb9b6b90b2a47dca8e6c5681886f6dc
+utc_time_created: '2026-08-02 14:57:01.288611'
