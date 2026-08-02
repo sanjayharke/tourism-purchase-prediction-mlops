@@ -236,7 +236,7 @@ def save_diagnostics(
         y_test,
         probability,
         ax=axes[0],
-        curve_kwargs={"color": "#0B6E75"},
+        color= "#0B6E75",
     )
     axes[0].plot([0, 1], [0, 1], "--", color="gray", linewidth=1)
     axes[0].set_title("ROC Curve")
@@ -244,7 +244,7 @@ def save_diagnostics(
         y_test,
         probability,
         ax=axes[1],
-        curve_kwargs={"color": "#D97706"},
+        color="#D97706",
     )
     axes[1].set_title("Precision-Recall Curve")
     fig.tight_layout()
